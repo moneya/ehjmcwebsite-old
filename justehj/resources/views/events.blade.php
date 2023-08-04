@@ -1,0 +1,6 @@
+@include('layouts.events.head')
+@include('general.nav')
+@include('layouts.events.header')
+@include('layouts.events.container')
+@include('general.footer')
+@include('general.scripts')

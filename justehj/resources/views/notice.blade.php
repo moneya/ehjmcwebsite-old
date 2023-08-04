@@ -1,0 +1,6 @@
+@include('layouts.notice.head')
+@include('general.nav')
+@include('layouts.notice.header')
+@include('layouts.notice.container')
+@include('general.footer')
+@include('general.scripts')

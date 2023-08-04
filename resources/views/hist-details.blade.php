@@ -1,0 +1,6 @@
+@include('layouts.history-details.head')
+@include('general.nav')
+@include('layouts.history-details.header')
+@include('layouts.history-details.content')
+@include('general.footer')
+@include('general.scripts')

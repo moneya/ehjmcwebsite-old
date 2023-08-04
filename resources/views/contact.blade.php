@@ -1,0 +1,7 @@
+@include('layouts.contact.head')
+@include('general.nav')
+@include('layouts.contact.header')
+@include('layouts.contact.map')
+@include('layouts.contact.form')
+@include('general.footer')
+@include('general.scripts')

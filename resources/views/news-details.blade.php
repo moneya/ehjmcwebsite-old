@@ -1,0 +1,6 @@
+@include('layouts.blog-details.head')
+@include('general.nav')
+@include('layouts.blog-details.header')
+@include('layouts.blog-details.content')
+@include('general.footer')
+@include('general.scripts')

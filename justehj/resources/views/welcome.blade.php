@@ -1,0 +1,6 @@
+@include('layouts.welcome.head')
+@include('general.nav')
+@include('layouts.welcome.header')
+@include('layouts.welcome.content')
+@include('general.footer')
+@include('general.scripts')

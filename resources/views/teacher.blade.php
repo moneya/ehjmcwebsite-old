@@ -1,0 +1,6 @@
+@include('layouts.teacher.head')
+@include('general.nav')
+@include('layouts.teacher.header')
+@include('layouts.teacher.container')
+@include('general.footer')
+@include('general.scripts')

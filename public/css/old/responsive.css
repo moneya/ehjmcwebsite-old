@@ -1,0 +1,5 @@
+@media only screen and (max-width: 400px) {
+    .about-1-cont-text h2 {
+        font-size: 16px !important;
+    }
+}

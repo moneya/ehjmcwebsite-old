@@ -1,0 +1,6 @@
+@include('layouts.video-details.head')
+@include('general.nav')
+@include('layouts.video-details.header')
+@include('layouts.video-details.content')
+@include('general.footer')
+@include('general.scripts')
